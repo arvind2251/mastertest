@@ -1,2 +1,2 @@
 # mastertest
-just checking
+just checking the contents of the file
