@@ -1,6 +1,9 @@
 # mastertest
-just checking the contents of the file,changed locally - master change 1 , master change 2
+just checking the contents of the file,changed locally - master change 1 , master change 2 ,master change 3
  
+ Sprint Start  - Salesforce DX into picture in dev , now testing
+ 
+
  Sprint Start  - Salesforce DX into picture 1
 
  1)Take the dump of the project and put it on git repo - Inspection Dev 
