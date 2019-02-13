@@ -1,7 +1,7 @@
 # mastertest
 just checking the contents of the file,changed locally
  
- Sprint Start  - Salesforce DX into picture
+ Sprint Start  - Salesforce DX into picture in dev
 
  1)Take the dump of the project and put it on git repo - Inspection Dev 
  2)Cut the project repo into branches for each individual developer
