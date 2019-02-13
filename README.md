@@ -1,5 +1,5 @@
 # mastertest
-just checking the contents of the file,changed locally
+just checking the contents of the file,changed locally - master change 1 , master change 2
  
  Sprint Start  - Salesforce DX into picture
 
